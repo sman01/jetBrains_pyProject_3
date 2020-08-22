@@ -59,8 +59,6 @@ topics:
   - title: Math functions
     theory_id: 6256
   3:
-  - title: Computer programming
-    theory_id: 8739
   - title: Type casting
     theory_id: 6224
   - title: List
@@ -71,12 +69,12 @@ topics:
     theory_id: 5900
   - title: Program execution
     theory_id: 6047
-  - title: Errors
-    theory_id: 6052
   - title: While loop
     theory_id: 5940
   - title: For loop
     theory_id: 6065
+  - title: Errors
+    theory_id: 6052
   - title: Introduction to operating systems
     theory_id: 9704
   - title: Command line overview

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fusion_drone" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jetBrains_pyProject_3" vcs="Git" />
   </component>
 </project>
